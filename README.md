@@ -1,5 +1,5 @@
-# BIOL4559-Final-Project-Team-6<br>
-#Modeling HIV Transmission Across Vocational Groups in a High-Risk Social Network <br>
+# Modeling HIV Transmission Across Vocational Groups in a High-Risk Social Network <br>
+## Group 6 Final Project <br>
 This project analyzes the effects of targeted and random node removal on transmission in the Colorado 90 dataset, as well as analyzes the effects different groups have on the dataset and analyzing various network characteristics, such as assortativity, largest connected component, and identifying communities. <br> 
 Project by: Baanee Raheja, John Teurman, Grace Bradecamp
 
